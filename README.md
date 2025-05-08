@@ -3,8 +3,6 @@
 React 19 + TypeScript + Vite + pnpm + Tailwind CSS
 스터디 구현 내용을 위한 기본적인 개발 환경이 구성된 보일러플레이트입니다. 주 사용 기술 스택이나 버전이 위와 맞지 않거나, 직접 설정하고 싶은 경우 보일러플레이트를 사용하지 않고 각자 환경을 구성하여 스터디에 참여하셔도 무방합니다.
 
-<br/>
-
 # ✨ 기술 스택
 
 ⚛️ React 19
@@ -16,8 +14,6 @@ React 19 + TypeScript + Vite + pnpm + Tailwind CSS
 🌈 Tailwind CSS v4
 
 📦 pnpm
-
-<br/>
 
 # 🚀 시작하기
 
